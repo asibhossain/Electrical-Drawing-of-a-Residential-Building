@@ -4,7 +4,7 @@
 <body>
 <table width="100%">
   <tr>
-  <td width="50%"><img src="https://github.com/asibhossain/Electrical-Drawing-of-a-Residential-Building/blob/main/Typical%20Floor%20Plan.png" alt="BLANK" width="100%" height="30%"></td>
+  <td width="50%"><img src="https://github.com/asibhossain/Electrical-Drawing-of-a-Residential-Building/blob/main/Typical%20Floor%20Plan.png" alt="BLANK" width="100%" height="28%"></td>
   <td width="50%"><img src="https://github.com/asibhossain/Electrical-Drawing-of-a-Residential-Building/blob/main/Ground%20Floor%20Plan%20Layout.png" alt="BLANK" width="100%" height="30%"></td>
   </tr>
   <br>
